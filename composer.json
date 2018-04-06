@@ -1,0 +1,12 @@
+{
+    "name": "tommie/symfony_form_component",
+    "require": {
+        "symfony/form": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Tommie Crawford",
+            "email": "tommie.crawford@wunderkraut.com"
+        }
+    ]
+}
