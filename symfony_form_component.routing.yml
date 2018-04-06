@@ -1,0 +1,7 @@
+symfony_form_component.index:
+  path: '/form'
+  defaults:
+    _controller: '\Drupal\symfony_form_component\Controller\IndexController::Index'
+    _title: 'Welcome!'
+  requirements:
+    _permission: 'access administration pages'

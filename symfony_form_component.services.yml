@@ -1,0 +1,3 @@
+services:
+  symfony_form_component.form:
+    class: Drupal\symfony_form_component\Form\Form
