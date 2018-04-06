@@ -1,0 +1,5 @@
+name: Symfony Form Component
+type: module
+description: Symfony Form Component example in drupal 8.x
+core: 8.x
+package: Custom
